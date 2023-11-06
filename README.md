@@ -23,4 +23,7 @@ Create a Python-based command-line password generator with the following feature
 - This is a basic command-line password generator.
 - Feel free to contribute and add new features!
 
+# OUTPUT
+
+![image](https://github.com/Shreyas521032/OIBSIP_taskno.3/assets/149940538/cf1ea631-3179-4b93-89f5-e2ea91ac6d78)
 
